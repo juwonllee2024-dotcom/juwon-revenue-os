@@ -1,0 +1,12 @@
+{
+  "businessName": "Demo Glow Studio",
+  "niche": "피부관리",
+  "bookingUrl": "https://example.com/demo-booking",
+  "services": ["시그니처 페이셜", "LED 케어"],
+  "contact": "demo-glow@example.com",
+  "tone": "고급스럽고 편안함",
+  "colors": ["#171411", "#E5C994"],
+  "sourceMedia": [],
+  "consent": true,
+  "demo": true
+}
